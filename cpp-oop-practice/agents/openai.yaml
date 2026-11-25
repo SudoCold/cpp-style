@@ -1,0 +1,4 @@
+interface:
+  display_name: "C++ OOP Practice"
+  short_description: "C++ OOP exercises with your consistent coding style"
+  default_prompt: "Use $cpp-oop-practice to give me an easy OOP problem in C++ using my preferred coding style."
